@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/brycesulin/Desktop/Github Projects/Prog Lang Class Projects/C++ Programming Assignments/Rational/main.cpp
+cstdlib
+-
+rational.h
+/Users/brycesulin/Desktop/Github Projects/Prog Lang Class Projects/C++ Programming Assignments/Rational/rational.h
+
+/Users/brycesulin/Desktop/Github Projects/Prog Lang Class Projects/C++ Programming Assignments/Rational/rational.cpp
+iostream
+-
+cassert
+-
+rational.h
+/Users/brycesulin/Desktop/Github Projects/Prog Lang Class Projects/C++ Programming Assignments/Rational/rational.h
+
+/Users/brycesulin/Desktop/Github Projects/Prog Lang Class Projects/C++ Programming Assignments/Rational/rational.h
+iostream
+-
+
